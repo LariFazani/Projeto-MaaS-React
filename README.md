@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+# Projeto MaaS React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Descrição:
 
-## Get started
+O Projeto MaaS é um aplicativo inovador que simplifica a vida dos usuários ao oferecer uma plataforma única para planejar e realizar viagens urbanas. Nele, você pode encontrar as melhores rotas, comparar opções de transporte e pagar suas viagens de forma rápida e segura.
+Este repositório é da versão do projeto em React Native.
 
-1. Install dependencies
+## Tecnologias:
 
-   ```bash
-   npm install
-   ```
+* **Linguagem de programação:** Flutter, linguagem de programação moderna e concisa para desenvolvimento Android.
+* **IDE:** VSCode.
+* **API:** SPTrans API para horários e trajetos de ônibus, Bike Sampa e a API do Waze.
 
-2. Start the app
+## Funcionalidades:
 
-   ```bash
-    npx expo start
-   ```
+* **Planejamento de rotas:** Encontre a rota mais rápida e eficiente para o seu destino, considerando diferentes modos de transporte.
+* **Integração de pagamentos:** Pague suas viagens de forma segura e conveniente através do aplicativo, utilizando diversas opções de pagamento.
+* **Informações em tempo real:** Receba atualizações sobre horários de ônibus, trens e outros meios de transporte.
+* **Personalização:** Crie perfis personalizados para armazenar suas preferências de viagem.
 
-In the output, you'll find options to open the app in a
+## Benefícios:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+* **Conveniência:** Acesse todos os serviços de transporte em um único aplicativo.
+* **Sustentabilidade:** Reduza sua pegada de carbono ao optar por transportes públicos.
+* **Economia:** Aproveite tarifas especiais e promoções exclusivas.
