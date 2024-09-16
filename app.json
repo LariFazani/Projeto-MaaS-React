@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Projeto_MaaS",
-    "slug": "Projeto_MaaS",
+    "name": "Projeto-MaaS-React",
+    "slug": "Projeto-MaaS-React",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
